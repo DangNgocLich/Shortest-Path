@@ -1,0 +1,1 @@
+You have to download jfoenix jar in : https://search.maven.org/remotecontent?filepath=com/jfoenix/jfoenix/8.0.8/jfoenix-8.0.8.jar
